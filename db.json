@@ -1,0 +1,22 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "go to GayPARAD",
+      "description": "go to GayPARAD",
+      "date": 1657832250
+    },
+    {
+      "id": 2,
+      "title": "go to STEKLIASHKA",
+      "description": "go to STEKLIASHKA",
+      "date": 1657832100
+    },
+    {
+      "id": 3,
+      "title": "go to GayClub",
+      "description": "go to GayClub",
+      "date": 1657999999
+    }
+  ]
+}

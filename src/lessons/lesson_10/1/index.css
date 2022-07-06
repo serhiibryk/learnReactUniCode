@@ -1,0 +1,19 @@
+.main-table {
+  border: 1px solid;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.td-table {
+  border: 1px solid;
+}
+
+.thead-table {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.summ-of-salaries {
+  font-size: 25px;
+  font-weight: bold;
+}
